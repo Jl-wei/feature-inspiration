@@ -1,0 +1,42 @@
+[
+    {
+        "feature": "Parking Space Finder",
+        "description": "This app connects drivers with available parking spaces through a marketplace, letting space owners rent their spots or helping users find free and paid parking nearby, while generating revenue through commissions and listing fees."
+    },
+    {
+        "feature": "Voice Translation",
+        "description": "The voice translation app transcribes speech into the user's desired language, breaking down language barriers for travel, work, and learning."
+    },
+    {
+        "feature": "Supermarket Checkout",
+        "description": "A grocery store checkout app that allows users to scan items as they shop and complete payment via a stored credit card, enabling them to skip lines and avoid using their wallets."
+    },
+    {
+        "feature": "Travel Planner",
+        "description": "Plan perfect trip from flights to personalized itineraries with this travel app that offers bookings, reviews, and recommendations for restaurants, attractions, and activities."
+    },
+    {
+        "feature": "Criminal Alert",
+        "description": "The app allows citizens to monitor and report police activity or suspicious behavior in their neighborhood, receive incident alerts, and engage in a virtual neighborhood watch program for enhanced safety."
+    },
+    {
+        "feature": "Random Chat",
+        "description": "Connect with new people globally or locally using the random chat app, where each launch introduces the user to a fresh virtual pen pal."
+    },
+    {
+        "feature": "Mental Health Therapy",
+        "description": "Connect with licensed therapists for virtual sessions, track mood and progress, and access self-care resources, all in one app for convenient mental health support."
+    },
+    {
+        "feature": "Virtual Fashion Assistant",
+        "description": "A personal stylist app that provides clothing and accessory suggestions tailored to users' style preferences, budget, and current wardrobe."
+    },
+    {
+        "feature": "Interior Design",
+        "description": "This app provides interior design templates, a 3D visualization tool, and a design ideas library, while enabling users to connect with professional designers for personalized home renovation advice."
+    },
+    {
+        "feature": "Anti Smartphone Addiction",
+        "description": "Monitor and manage the users' smartphone usage with customizable time restrictions and alerts, helping them track screen time and prevent overuse."
+    }
+]
