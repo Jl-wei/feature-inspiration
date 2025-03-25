@@ -13,6 +13,7 @@ The features we used for evaluation can be found in the `evaluation` folder.
 During our evaluation, we used `Qdrant` as the local vector database to retrieve relevant app descriptions in `AppStore-Inspiration`. 
 However, due to the size limitations, we cannot provide the storage file for the vector database.
 Therefore, we have commented out the code related to `Qdrant`.
+However, the dataset containing 589k app description is available at https://huggingface.co/datasets/Jl-wei/gp-app-description.
 
 As an alternative, the tool uses the Google Play search engine to find relevant app descriptions.
 Please note that this alternative has lower performance compared to using our vector database.
